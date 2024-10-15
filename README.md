@@ -36,3 +36,22 @@ This interdisciplinary research aims to bridge the gap between traditional polym
 - Polymer science and characterization
 - Causal Discovery and Inference
 
+## 🔗 Projects
+
+Here are some projects I've worked on:
+
+1. Polymer Property Predictor
+   - Machine learning model to predict polymer properties based on chemical structure
+
+2. Medical Entity Extraction
+   - NLP project for extracting medical entities from clinical texts
+
+3. Patient-Study Profile Matching
+   - AI-powered system to match patient profiles with suitable clinical studies
+
+4. Water Network Management Optimization
+   - Large-scale integer optimization for efficient water network scheduling
+
+5. Blast Furnace Data Reconciliation
+   - Data reconciliation project for improving blast furnace efficiency
+
