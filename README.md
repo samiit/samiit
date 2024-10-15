@@ -11,3 +11,16 @@
 - 🧮 Strong background in mathematical modeling of physical systems and optimization
 - 🤖 Experience with Large Language Models (RAG and Agent)
 - 🌍 Multilingual: Fluent in English, Hindi, Malayalam; Proficient in German, Tamil, and Telugu; still dabbling with French and Spanish!
+
+## 🎯 Current Focus
+
+I'm currently working on exciting projects that combine my expertise in data science with my studies in Polymer Science:
+
+- 🧪 Applying machine learning techniques to index and search polymer material properties
+- 🔍 Developing recommendation engines for polymer materials based on required properties
+- 🔗 Integrating knowledge from thermodynamics, chemistry, and physics to create comprehensive models
+- 📊 Utilizing data-driven approaches to accelerate materials discovery and optimization
+- 🔍 Exploring Causal Discovery and Inference techniques in materials science and beyond
+
+This interdisciplinary research aims to bridge the gap between traditional polymer science, causal inference, and cutting-edge machine learning techniques, potentially revolutionizing how we design and select materials for specific applications.
+
