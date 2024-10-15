@@ -55,3 +55,19 @@ Here are some projects I've worked on:
 5. Blast Furnace Data Reconciliation
    - Data reconciliation project for improving blast furnace efficiency
 
+## 📫 How to reach me
+
+- 💼 LinkedIn: [linkedin.com/in/sammathewai](https://www.linkedin.com/in/sammathewai)
+- 🐙 GitHub: [github.com/samiit](https://github.com/samiit)
+
+## 🌟 Interests and Fun Facts
+
+- 📚 I'm deeply interested in causal inference and its applications in data science. Judea Pearl's "The Book of Why" has been a significant influence on my thinking in this area.
+- 🧠 I love exploring the intersection of machine learning, causal inference, and materials science.
+- 📖 My reading interests span history, philosophy, technology, and scientific advancements.
+- 🧗 In my free time, you can find me hiking or cycling.
+- 🌍 I've lived and studied in India, Germany, and the Netherlands.
+- 🧬 I'm fascinated by the potential of combining materials science with machine learning and causal inference to solve real-world problems.
+
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project, discuss the exciting world of polymer science and machine learning, or explore the depths of causal inference!
+
