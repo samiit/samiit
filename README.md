@@ -24,3 +24,15 @@ I'm currently working on exciting projects that combine my expertise in data sci
 
 This interdisciplinary research aims to bridge the gap between traditional polymer science, causal inference, and cutting-edge machine learning techniques, potentially revolutionizing how we design and select materials for specific applications.
 
+## 🛠️ Skills
+
+- Python (Pandas, NumPy, Langchain, FastAPI)
+- Mathematical modeling and optimization
+- Large Language Models (RAG and Agent)
+- Natural Language Processing
+- Azure DevOps and AWS
+- Data reconciliation and process optimization
+- Image processing and deep learning
+- Polymer science and characterization
+- Causal Discovery and Inference
+
