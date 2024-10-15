@@ -71,3 +71,24 @@ Here are some projects I've worked on:
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project, discuss the exciting world of polymer science and machine learning, or explore the depths of causal inference!
 
+<details>
+<summary>📚 Selected Publications</summary>
+
+1. Sujan Hazra, Prakash Abhale, Sam Mathew and Shankar Narasimhan, "Application of data reconciliation and gross error detection techniques to enhance reliability and consistency of the blast furnace process data", Asia-Pacific Journal of Chemical Engineering, 2021
+
+2. Pallab Sinha Mahapatra and Sam Mathew, "Activity-induced mixing and phase transitions of self-propelled swimmers", Phys. Rev. E, 2019, Vol. 99, 012609
+
+3. Pallab Sinha Mahapatra, Ajinkya Kulkarni, Sam Mathew, Mahesh V. Panchagnula and Srikanth Vedantam, "Transitions between multiple dynamical states in a confined dense active-particle system", Phys. Rev. E, 2017, Vol. 95, 062610
+
+4. Pallab Sinha Mahapatra, Sam Mathew, Mahesh V. Panchagnula, Srikanth Vedantam, "Effect of size distribution on mixing of a polydisperse wet granular material in a belt-driven enclosure", Granular Matter, 2016, Vol. 18, 30
+
+5. Pramode K Das, Sam Mathew, A J Shaiju and B S V Patnaik, "Energetically efficient proportional-integral-differential (PID) control of wake vortices behind a circular cylinder", Fluid Dynamics Research, 2015, Vol. 48, 015510
+
+6. Sam Mathew, B S V Patnaik and T John Tharakan, "Numerical study of air-core vortex dynamics during liquid draining from cylindrical tanks", Fluid Dynamics Research, 2014, Vol. 46, 02550
+
+7. Sam Mathew, Ganesh Visavale and Vijay Mali, "CFD Analysis of a Heat Collector Element in a Solar Parabolic Trough Collector", International Conference on Applications of Renewable and Sustainable Energy for Industry and Society, Hyderabad (REIS-2010), 2010, doi:10.13140/2.1.3247.4241
+
+8. Sam Mathew, Ganesh Visavale and Vijay Mali, "Making order in the cabinet : Integrating CFD in the green energy design process for food industry helps identify and fix causes for uneven drying in a Solar Cabinet Dryer", Ansys Users Conference, Bangalore, 2010, doi:10.13140/2.1.1953.0883
+
+9. Raja Gopal Rayavarapu, Wilma Petersen, Constantin Ungureanu, Janine N. Post, Ton G. van Leeuwen, and Srirang Manohar, "Synthesis and Bioconjugation of Gold Nanoparticles as Potential Molecular Probes for Light-Based Imaging Techniques", Int. J. of Biomedical Imaging, 2007, 2007:29817
+</details>
